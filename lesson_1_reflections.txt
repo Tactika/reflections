@@ -1,0 +1,3 @@
+How did viewing a diff between version of a file help you see the bug that was introduced?
+
+With the diff/fc command, comparing large amounts of code will be simplistic.... or at least less time consuming.
