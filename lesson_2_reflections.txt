@@ -1,5 +1,22 @@
 Lesson 2 - Reflections
 ---------------------------------------------------------
+Reflect: Initializing a Repository
+
+	Question: 
+		What happens when you initialize a repository? 
+    
+    Answer: 
+    	A new repository is created locally which then allows you to start creating/adding files.
+---------------------------------------------------------
+Reflect: Staging Area
+
+	Question: 
+		How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Answer: 
+		The staging area is an area where items that have been worked on are added to be queued for commiting. The working directory is where the documents/files are modified but have yet to be added to the queue to be commited.
+
+---------------------------------------------------------
 Reflect: Commit Size
 
 Question: 
