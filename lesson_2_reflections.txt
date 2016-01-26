@@ -2,6 +2,25 @@ Lesson 2 - Reflections
 ---------------------------------------------------------
 Reflect: Commit Size
 
-Question: How can you use the staging area to make sure you have one commit per logical change?
+Question: 
+	How can you use the staging area to make sure you have one commit per logical change?
 
-Answer: Tracking changes is one of the main goals of Git & GitHub. To ensure the changes are tracked correctly and only one logical change is committed, the use of the staging area is important. Only adding the documents/files that are wanted is made easier by using the staging area. 
+Answer: 
+	Tracking changes is one of the main goals of Git & GitHub. To ensure the changes are tracked correctly and only one logical change is committed, the use of the staging area is important. Only adding the documents/files that are wanted is made easier by using the staging area.
+
+---------------------------------------------------------
+Reflect: When to Use Branches
+
+Question: 
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Answer: 
+	Branching would be great for a project if it had multiple options or features. It would allow changes to each individual feature, without committing to a complete overhaul of the entire code.
+---------------------------------------------------------
+Reflect: Visualizing with Diagrams
+
+Question:
+	How do the diagrams help you visualize the branch structure?
+
+Answer:
+	Diagrams assist in visualizing where you are and what you have access to. You can see where your branches (features) were implimented and other features continued on.
