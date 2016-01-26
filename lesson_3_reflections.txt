@@ -51,3 +51,16 @@ Reflect: Collaboration using Git and GitHub
 		Previously I've used e-mail, vpn's, and/or ftp servers. These allowed access, but in order to ensure changes were correct, I usually had to follow up with a call or e-mail to talk about what has changed, which was time consuming.
 
 		It was easy for the most part, but extremely time consuming.
+
+-------------------------------------------------
+
+Reflect: When to use a separate branch
+
+	Question:
+		When would you want to make changes in a separate branch rather than directly in master?
+		What benefits does each approach have?
+
+	Answer: 
+		Any time you are going to be adding a new feature or possibly a variation of the master branch.
+
+		Making a separate branch allows you to make drastic changes to the code, which would possibly ruin the main branch if added directly.
