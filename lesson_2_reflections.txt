@@ -42,8 +42,8 @@ Question:
 Answer:
 	Diagrams assist in visualizing where you are and what you have access to. You can see where your branches (features) were implimented and other features continued on.
 
-	-----------------------------------------------------
-	Reflect: Merging Two Branches
+-----------------------------------------------------
+Reflect: Merging Two Branches
 
 	Question:
 		What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
@@ -51,8 +51,8 @@ Answer:
 	Answer: 
 		Merging the branches combines the files, ensuring changes are taken from both merges.
 
-	------------------------------------------------------
-	Reflect: Automatic vs. Manual Merging
+------------------------------------------------------
+Reflect: Automatic vs. Manual Merging
 
 	Question:
 		What are the pros and cons of Git's automatic merging vs. always doing the merges manually?
