@@ -9,3 +9,13 @@ Answer:
   I'd create a remote repository when there will be multiple people/groups working on a single project, so everyone can access the files immediatedly.
 
 -----------------------------------------------
+
+Relfect: Manual vs. Automatic Pull
+
+	Question:
+		Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	Answer: 
+		Updating repositories manually is the only way to ensure the information in the files is accurate. An automatic update could possibly update mid-code and potentially cause a catastrophic failure.
+
+------------------------------------------------
