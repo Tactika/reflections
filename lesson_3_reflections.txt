@@ -19,3 +19,15 @@ Relfect: Manual vs. Automatic Pull
 		Updating repositories manually is the only way to ensure the information in the files is accurate. An automatic update could possibly update mid-code and potentially cause a catastrophic failure.
 
 ------------------------------------------------
+
+Reflect: Forks, Clones, and Branches
+
+	Question: 
+		Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Answer: 
+		Forks are repositories from other GitHub members, that other users have cloned to their GitHub account... which also gives credit to the original author.
+		Clones are copies of repositories, but have no link back to the original author on GitHub.
+		Branches are just part of the repositories, which stray from the core code and can possibly merge back to the main branch.
+
+------------------------------------------------
