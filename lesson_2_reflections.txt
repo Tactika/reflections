@@ -1,0 +1,7 @@
+Lesson 2 - Reflections
+---------------------------------------------------------
+Reflect: Commit Size
+
+Question: How can you use the staging area to make sure you have one commit per logical change?
+
+Answer: Tracking changes is one of the main goals of Git & GitHub. To ensure the changes are tracked correctly and only one logical change is committed, the use of the staging area is important. Only adding the documents/files that are wanted is made easier by using the staging area. 
