@@ -33,3 +33,12 @@ Answer:
 
 	Answer: 
 		Merging the branches combines the files, ensuring changes are taken from both merges.
+
+	------------------------------------------------------
+	Reflect: Automatic vs. Manual Merging
+
+	Question:
+		What are the pros and cons of Git's automatic merging vs. always doing the merges manually?
+
+	Answer:
+		I would think the pros of manually having to merge items, is that you can ensure the correct data is being merged and any conflicts are resolved.
